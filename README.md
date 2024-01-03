@@ -1,6 +1,8 @@
 # git-practice-project
  20240103 Git/Github 기초 내용 실습 
 
+## 내용
+```
 1. develop 브랜치를 default로 만들어주세요
 2. develop 브랜치를 기준으로 feature/test1, feature/test2 브랜치를 생성해주세요
 2 - 1. develop 브랜치로 체크아웃 하시고,
@@ -15,3 +17,4 @@
 4 - 1. develop 브랜치로 체크아웃
 4 - 2. feature/test1 , feature/test2 브랜치를 머지.
 (컨플릭 발생 혹은 잘 머지가 될 수도 있음)
+```
